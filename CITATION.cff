@@ -1,0 +1,35 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+title: "Code for the Vietnamese sidewalk encroachment VQA dataset"
+type: software
+authors:
+  - family-names: "Nguyen"
+    given-names: "Qui Ngoc"
+    affiliation: "University of Information Technology, Vietnam National University Ho Chi Minh City"
+  - family-names: "Dao"
+    given-names: "Manh Dung"
+    affiliation: "University of Information Technology, Vietnam National University Ho Chi Minh City"
+  - family-names: "Cao"
+    given-names: "Thanh Huy"
+    affiliation: "University of Information Technology, Vietnam National University Ho Chi Minh City"
+  - family-names: "Do"
+    given-names: "Trong Hop"
+    affiliation: "University of Information Technology, Vietnam National University Ho Chi Minh City"
+version: "1.0.0"
+date-released: "2026-11-14"
+license: MIT
+repository-code: "https://github.com/quinnUIT10399/sidewalk-vqa-code"
+abstract: "Code accompanying a Vietnamese visual question answering dataset of sidewalk encroachment linked to traffic regulations: annotation tool, agreement script, frozen-encoder classifier, and QLoRA fine-tuning of Qwen2.5-VL-3B."
+references:
+  - type: dataset
+    title: "A Vietnamese visual question answering dataset of sidewalk encroachment linked to traffic regulations"
+    doi: "10.6084/m9.figshare.35010361"
+    authors:
+      - family-names: "Nguyen"
+        given-names: "Qui Ngoc"
+      - family-names: "Dao"
+        given-names: "Manh Dung"
+      - family-names: "Cao"
+        given-names: "Thanh Huy"
+      - family-names: "Do"
+        given-names: "Trong Hop"
